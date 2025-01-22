@@ -1,11 +1,13 @@
 ## Hello, I'm Akash Satheesh Kumar 👋
 
+-----
+
 <p align="center">
 
 ![image](https://i.postimg.cc/gj6JR91V/githubimage.jpg)
 </p>
 
-
+-----
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -64,7 +66,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=akashnb0&theme=highcontrast)](https://github.com/akashnb0)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akashnb0&theme=highcontrast)](https://github.com/akashnb0)
 
 </div>
 
