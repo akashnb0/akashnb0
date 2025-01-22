@@ -1,4 +1,4 @@
-### Hello world, I'm Akash Satheesh Kumar 👋
+# Hello, I'm Akash Satheesh Kumar 👋
 
 -----
 
