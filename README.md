@@ -1,13 +1,11 @@
-# Hello, I'm Akash Satheesh Kumar 👋
-
------
+## Hello, I'm Akash Satheesh Kumar 👋
 
 <p align="center">
 
 ![image](https://i.postimg.cc/gj6JR91V/githubimage.jpg)
 </p>
 
------
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
