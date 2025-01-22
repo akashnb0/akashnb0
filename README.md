@@ -27,16 +27,38 @@
 <a href="https://leetcode.com/u/akashsweb/"><img src="https://img.shields.io/badge/-LeetCode-E4405F?style=flat&logo=LeetCode&logoColor=white"/></a> &nbsp;
 <a href="http://www.akashn.com"><img src="https://img.shields.io/badge/-Website-9cf?style=flat&logo=Google-Chrome&logoColor=white"/></a> &nbsp;
 
------  
+-----
 
 <h1 align="center">Projects</h1>
 
 <div align="center">
 
-<a href="https://github.com/akashnb/Project1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb&repo=Project1&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/akashnb/Project2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb&repo=Project2&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/akashnb/Project3"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb&repo=Project3&show_icons=true&theme=great-gatsby"></a>
-<a href="https://github.com/akashnb/Project4"><img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb&repo=Project4&show_icons=true&theme=great-gatsby"></a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/akashnb0/UARTprotocol">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb0&repo=UARTprotocol&show_icons=true&theme=great-gatsby" alt="MC-PCU Communication" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/akashnb0/threephaseckt">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb0&repo=threephaseckt&show_icons=true&theme=great-gatsby" alt="Three Phase Power Failure Monitoring" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/akashnb0/tcp_congestion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb0&repo=tcp_congestion&show_icons=true&theme=great-gatsby" alt="TCP Congestion in High Speed Networks" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/akashnb0/rtos_scheduler">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashnb0&repo=rtos_scheduler&show_icons=true&theme=great-gatsby" alt="RTOS Dynamic Scheduler" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -44,12 +66,16 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=akashnb&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akashnb0&theme=highcontrast)](https://github.com/akashnb0)
 
- </div>
+</div>
 
-<img align="left" alt="Akash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akashnb&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnb&layout=compact&theme=dark" width="46%" />
+<div align="center">
+
+<img align="left" alt="Akash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akashnb0&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashnb0&layout=compact&theme=dark" width="46%" />
+
+</div>
 
 <br>
 
