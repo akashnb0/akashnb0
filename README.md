@@ -11,7 +11,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm an Embedded, Networking Engineer and Full-stack Engineer with a passion for exploring new technologies and building innovative solutions.
+💡 &nbsp;I'm an Software Engineer with a passion for exploring new technologies and building innovative solutions.
 
 🌱 &nbsp;I had the privilege of interning at the Indian Space Research Organization (ISRO IPRC), which significantly shaped my technical journey.
 
